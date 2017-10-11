@@ -1,0 +1,10 @@
+SEO success factors:
+-Quality: the pages have high quality content and are for the majority, quite full. The main page is also nicely designed therefor grabbing users attention 
+-Research: searching any word or phrase that deals with an apple product brings up the apple web page in the top five searches on google
+-Fresh: the page is all about hot topics and being “fresh” as apple products are constantly being made and upgraded and everyone wants the newest most improved technology 
+-Mobile: this website is designed and works exceptionally well on phones as it is a company that sells high quality phones therefor the website should work well on its own product
+-Speed: site loads very quickly which is very important for a well designed and built website
+-Titles: the HTMl tags appropriately describe the topics displayed on the page e.g. one title tag is phone and the page is all about apple product phones
+-Answers: content when searched is turned into direct answers and gives you step by step instructions to solve any problems you may be having
+-Engage: readers are very engaged as there are always new products and updates that intrigue people 
+-Country: there is a apple page for people in specific countries aka Apple Canada 
