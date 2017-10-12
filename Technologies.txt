@@ -1,0 +1,5 @@
+Technologies Powering the Website:
+
+SiteCatalyst-this is a function to help collect, analyze/evaluate, and address clickstream behaviours. It also provides automatic alerts and near real-time data for efficient decision making
+
+Apache-the most popular web server software which uses extensions and modules to meet the needs of several different webpages
